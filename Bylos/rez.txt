@@ -1,0 +1,27 @@
+ Petriuko  pazymiai
+10 8 5 6 8 4 
+ Jolita  pazymiai
+5 9 10 5 4 8 9 10 
+ Martyno  pazymiai
+5 8 10 8 9 7 10 8 9 
+Petriuko pazymiu kiekiai
+4-uku turim 1
+5-uku turim 1
+6-uku turim 1
+8-uku turim 2
+10-uku turim 1
+
+Jolitos pazymiu kiekiai
+4-uku turim 1
+5-uku turim 2
+8-uku turim 1
+9-uku turim 2
+10-uku turim 2
+
+Martyno pazymiu kiekiai
+5-uku turim 1
+7-uku turim 1
+8-uku turim 3
+9-uku turim 2
+10-uku turim 2
+
