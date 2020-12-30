@@ -1,0 +1,6 @@
+Likutis: 
+Prekes nr. 1 liko 1
+Prekes nr. 2 liko 0
+Prekes nr. 3 liko 2
+Prekes nr. 4 liko 1
+Prekes nr. 5 liko -1
