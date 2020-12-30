@@ -1,0 +1,9 @@
+
+ Pradinis masyvas
+9 9 9 5 8 7 8 5 4 2 5 4 8 8 8 6 9 2 5 5 8 9 6 5 4 5 8 5 2 9 3 2 1 9 9 8 1 2 3 9 9 9 
+ Didziausias elementas yra 9
+
+Naujas masyvas be max elemento 
+5 8 7 8 5 4 2 5 4 8 8 8 6 2 5 5 8 6 5 4 5 8 5 2 3 2 1 8 1 2 3 
+ Pradinis masyvas be max 
+5 8 7 8 5 4 2 5 4 8 8 8 6 2 5 5 8 6 5 4 5 8 5 2 3 2 1 8 1 2 3 
