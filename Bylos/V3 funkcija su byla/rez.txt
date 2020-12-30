@@ -10,3 +10,4 @@ Petriuko pazymiu kiekiai
 9-uku turim 6
 10-uku turim 7
 
+ Dazniausiai pasikartojantis pazymys - 8

@@ -8,9 +8,12 @@ void ivedimasMasyvo(int Z[], int kiek);
 void isvedimasMasyvo(int Z[], int kiek, string txt);
 void veiksmaiSuKiekiu(int Z[], int kiek, int W[]);//W[] - masyvas, kuriame saugomi kiekiai
 void kiekiuSpausdinimas(int W[], string txt);
+//funkcija dazniausiai pasikartojancio pazymio radimui
+void dazniausioPazRadimas(int W[]);
+// float didziausias(int kiek, int Z[]);
 /*Parasykite funkcija, kuri surastu kokiu pazymiu ir kiek
 turi daugiausia Petriukas*/
-float didziausias(int kiek, int Z[]);
+
 
 int main()
 {
@@ -23,6 +26,9 @@ int main()
     int KP[10];
     veiksmaiSuKiekiu(P, kiekP, KP);
     kiekiuSpausdinimas(KP, "Petriuko");
+    //issikvieciame dazniausiai pasikartojanti pazymi
+    dazniausioPazRadimas(KP);
+
     in.close();
     out.close();
     return 0;
@@ -85,5 +91,16 @@ void kiekiuSpausdinimas(int W[], string txt)
     out<<endl;
 }
 //---------------------------------------------
+//---------Dazniausiai pasikartojantis pazymys---------
+void dazniausioPazRadimas(int W[])     //prasukam pro masyva, kuriame surasytas pazymio pasikartojimo daznumas
+{
+    int max = 0;
+    for (int i = 0; i < 10; ++i) {
+        if (W[i] > max){     //jei masyvas didesnis nei max, priskiriama masyvo elemento reiksme
+            max = i + 1;
+        }
+    }
+    out<<" Dazniausiai pasikartojantis pazymys - "<<max<<"\n";
+}
 
 
