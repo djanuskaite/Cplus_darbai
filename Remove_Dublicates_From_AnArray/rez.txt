@@ -1,0 +1,4 @@
+Pradinis masyvas
+5 8 5 8 8 5 8 5 1 1 5 6 9 5 5 
+Galutinis masyvas
+5 8 1 6 9 
