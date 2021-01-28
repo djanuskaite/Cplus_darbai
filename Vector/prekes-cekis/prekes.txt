@@ -1,0 +1,7 @@
+6
+Saladainiai 5 5.2
+Balta duona 14 1.07
+Konservai 10 2.54
+Gerimai 100 0.95
+Miltai 15 1.25
+Kojines 12 4.25
