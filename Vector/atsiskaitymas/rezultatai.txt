@@ -1,0 +1,17 @@
+kliento nr: 5      indelio dydis: 1987564.97
+kliento nr: 6      indelio dydis: 978687.67
+kliento nr: 1      indelio dydis: 1987.23
+kliento nr: 4      indelio dydis: 789.48
+kliento nr: 2      indelio dydis: 456.57
+kliento nr: 3      indelio dydis: 235.89
+
+
+didziausias indelis 
+kliento nr: 5      indelio dydis: 1987564.97
+
+
+maziausias indelis 
+kliento nr: 3      indelio dydis: 235.89
+
+
+vidurkis: 494953.635
